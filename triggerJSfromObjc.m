@@ -1,0 +1,1 @@
+[self.webView stringByEvaluatingJavaScriptFromString:@"alert('Trigger the JS!');"];
